@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Mob Studio!"
 subtitle: We love showcasing new quality apps
-image: /img/home-jumbotron.jpg
+image: /img/MobileStudio.jpg
 blurb:
     heading: About Mob Studio
     text: "Mob Studio is a mobile game development"
